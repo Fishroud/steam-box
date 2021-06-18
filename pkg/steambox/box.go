@@ -187,6 +187,7 @@ func getNameEmoji(id int, name string) string {
 		570:     "⚔️ ",    // Dota 2
 		730:     "🔫 ",     // CS:GO
 		8930:    "🌏 ",     // Sid Meier's Civilization V
+		236390:  "🛩️ ",    //War Thunder
 		252950:  "🚀 ",     // Rocket League
 		269950:  "✈️ ",    // X-Plane 11
 		271590:  "🚓 ",     // GTA 5
